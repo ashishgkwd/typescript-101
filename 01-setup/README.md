@@ -15,6 +15,8 @@ node -v  //v9.5.0
 //verify npm version
 npm -v  //6.0.0
 ```
+</br>
+</br>
 
 # TypeScript compiler installation
 
